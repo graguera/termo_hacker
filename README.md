@@ -1,6 +1,6 @@
 # Termo Hacker 🧠🔓: Acerte o Termo com Python!
 
-Cansado de perder no Termo? 🤔 Este projeto te ajuda a desvendar a palavra misteriosa com a ajuda de um algoritmo em Python que sugere os melhores palpites!
+Cansado de perder no [Termo](https://term.ooo/)? 🤔 Este projeto te ajuda a desvendar a palavra misteriosa com a ajuda de um algoritmo em Python que sugere os melhores palpites!
 
 Como funciona?
 
