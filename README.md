@@ -4,7 +4,7 @@ Cansado de perder no Termo? 🤔 Este projeto te ajuda a desvendar a palavra mis
 
 Como funciona?
 
-O Termo Hacker analisa um dicionário de palavras da língua portuguesa (fonte)[https://www.ime.usp.br/~pf/dicios/] e atribui uma “força” para cada palavra, baseada na frequência das letras em todas as palavras possíveis.
+O Termo Hacker analisa um dicionário de palavras da língua portuguesa [fonte](https://www.ime.usp.br/~pf/dicios/) e atribui uma “força” para cada palavra, baseada na frequência das letras em todas as palavras possíveis.
 
 Mas como isso me ajuda a ganhar?
 
